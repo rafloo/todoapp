@@ -3,6 +3,6 @@ todo liste créer avec node js , vue js et avec la base de donnée mongoose .
 
 package a telecharger :
 
-morgan , path , body-parser , express js , mongoose 
+morgan , path , body-parser , express js , mongoose
 
-ps : je l'est fait avec grace a un tutoriel 
+ps : je l'est fait grace a un tutoriel 
